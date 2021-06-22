@@ -78,3 +78,6 @@ st.write(penguins_species[prediction])
 
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
+st.write('Class 0 : Adelie' )
+st.write('Class 1 : Chinstrap' )
+st.write('Class 2 : Gentoo' )
